@@ -1,0 +1,19 @@
+{
+  "name": "com.opsive.ultimatecharactercontroller",
+  "version": "3.2.1",
+  "displayName": "Opsive Ultimate Character Controller",
+  "description": "The Ultimate Character Controller is a professional, kinematic character controller designed for flexibility, modularity, and performance.",
+  "documentationUrl": "https://opsive.com/support/documentation/ultimate-character-controller/",
+  "author": {
+    "name": "Opsive",
+    "email": "support@opsive.com",
+    "url": "https://opsive.com"
+  },
+  "samples": [
+    {
+      "displayName": "Demo",
+      "description": "Demo scene using the universal render pipeline",
+      "path": "Samples~/Demo"
+    }
+  ]
+}

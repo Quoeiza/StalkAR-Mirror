@@ -1,0 +1,24 @@
+# Unity Auto-Generated Files (Not Needed for Version Control)
+Library/
+Temp/
+Logs/
+.vs/
+.utmp/
+Build/
+Builds/
+
+# Unity DevOps Version Control / Plastic SCM (Only If They Exist)
+.globl/
+.plastic/
+
+# Visual Studio
+*.csproj
+*.sln
+*.suo
+.vscode/
+.vs/
+
+# OS-Specific Files
+.DS_Store
+Thumbs.db
+*.swp
